@@ -1,0 +1,11 @@
+id;nama;deskripsi;jumlah;rarity;tahun_ditemukan
+G1;Pintu ke ITB;Masuk pintu teleport;200;A;2112
+G2;Gerbang STEI;Masuk pintu wibu;34;C;1990
+G3;Gerbang Neraka;Masuk Jahanam;10000;C;1998
+G4;Gerbang Soleh;Masuk pintu masjid;100;S;1991
+G5;Pensil Pintar;Membuat pemegangnya menjadi pintar;45;A;2000
+G6;Suriken Tajam;Membunuh dengan cepat;40;B;2009
+G7;Pintu Exit;Keluar event;25;C;1500
+G8;Link ajaib;Link berisi materi;1;S;3000
+G9;Ikat rambut;Mengikat rambut sizuka;23;B;2010
+G10;Hape buruk;Baterai cepat habis;50;C;2020
